@@ -10,7 +10,7 @@
 <a name="install"></a>
 ## Installations
 
-Testing
+The code was written in Python, using Jupyter Notebook. Coding Environment Controlled by Anaconda, Default Version of Python is 3.6. The Liberaries will be used:
 
 <a name="proj"></a>
 ## Project Motivation
