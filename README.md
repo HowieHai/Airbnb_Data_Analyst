@@ -1,5 +1,5 @@
 # Airbnb_Data_Analyst
-# Table of contents
+## Table of contents
 1. [Installations.](#install)       
 2. [Project Motivation.](#proj)      
 3. [File Descriptions.](#file)     
@@ -8,32 +8,32 @@
 6. [Licensing, Authors.](#author)    
 
 <a name="install"></a>
-# Installations
+## Installations
 
 Testing
 
 <a name="proj"></a>
-# Project Motivation
+## Project Motivation
 
 Testing
 
 <a name="file"></a>
-# File Descriptions
+## File Descriptions
 
 Testing
 
 <a name="result"></a>
-# Result
+## Result
 
 Testing
 
 <a name="blog"></a>
-# BLOG
+## BLOG
 
 Testing
 
 <a name="author"></a>
-# Licensing, Authors
+## Licensing, Authors
 
 Testing
 
