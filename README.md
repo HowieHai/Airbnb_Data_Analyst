@@ -30,7 +30,8 @@ and try to find some valuable data to help owner understand which feature could 
 
 <a name="file"></a>
 ## File Descriptions
-There is a Jupyter Notebook file that shows whole progress of how to process data. Two datasets download from Kaggle as I only use them.
+There is a Jupyter Notebook file that shows whole progress of how to process data. The original datasets download from Kaggle, the link
+that be provided below.   
 
 <a name="blog"></a>
 ## BLOG
