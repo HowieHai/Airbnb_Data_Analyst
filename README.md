@@ -35,8 +35,7 @@ that be provided below.
 
 <a name="blog"></a>
 ## BLOG
-
-Testing
+Blog is <a href = 'https://medium.com/@shenhai0910/airbnb-data-analyst-what-improves-the-rate-of-rent-in-seattle-cebd6f8cffce'>here</a>
 
 <a name="author"></a>
 ## Licensing, Authors
