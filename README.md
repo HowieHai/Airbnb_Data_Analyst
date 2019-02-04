@@ -4,7 +4,8 @@
 2. [Project Motivation.](#proj)      
 3. [File Descriptions.](#file)      
 4. [BLOG.](#blog)    
-5. [Licensing, Authors.](#author)    
+5. [Result](#result)
+6. [Licensing, Authors.](#author)    
 
 <a name="install"></a>
 ## Installations
@@ -32,6 +33,12 @@ and try to find some valuable data to help owner understand which feature could 
 ## File Descriptions
 There is a Jupyter Notebook file that shows whole progress of how to process data. The original datasets download from Kaggle, the link
 that be provided below.   
+
+<a name="result"></a>
+## Result
+In this project, I have analized the dataset about renting house from the Kaggle, which provided by AirBnb. The main motivation is to find out more insights for Airbnb business owners and customer in Seattle.          
+Through the analyst, we can see, a rating for a house is quite important. To improve the rating, number of reviews, cleaning fee, price, available days and house's owner is the Top 5 feature which has a big influence for attacting customer. The popular time for the customer is January and July.       
+Futhuremore, we could use scientice tool, such as data analyst to mining more valuable information
 
 <a name="blog"></a>
 ## BLOG
